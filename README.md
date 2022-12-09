@@ -15,9 +15,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=skyblue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1572B6?style=for-the-badge&logo=javascript&logoColor=skyblue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1572B6?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-1572B6?style=for-the-badge&logo=xml&logoColor=skyblue)
-![JQuery](https://img.shields.io/badge/JQuery-1572B6?style=for-the-badge&logo=jquery&logoColor=white)
+![JQuery](https://img.shields.io/badge/JQuery-100000?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=database&logoColor=skyblue)
 
 ## Contact Me
