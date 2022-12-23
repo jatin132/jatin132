@@ -18,8 +18,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-1572B6?style=for-the-badge&logo=xml&logoColor=skyblue)
 ![JQuery](https://img.shields.io/badge/JQuery-100000?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=database&logoColor=skyblue)
-![Reactjs](https://img.shields.io/badge/Reactjs-1572B6?style=for-the-badge&logo=reactjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=skyblue)
+![Reactjs](https://img.shields.io/badge/Reactjs-1572B6?style=for-the-badge&logo=react&logoColor=white)
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-androiddev/)
