@@ -20,6 +20,7 @@
 ![JQuery](https://img.shields.io/badge/JQuery-100000?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=skyblue)
 ![Reactjs](https://img.shields.io/badge/Reactjs-1572B6?style=for-the-badge&logo=react&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-1572B6?style=for-the-badge&logo=tailwind&logoColor=skyblue)
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-androiddev/)
