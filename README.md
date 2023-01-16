@@ -23,7 +23,5 @@
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-1572B6?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-androiddev/)
-[![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=skyblue)](https://www.instagram.com/jatinrj_13/)
 [![Linktree](https://img.shields.io/badge/Linktree-0077B5?style=for-the-badge&logo=linktree&logoColor=skyblue)](https://linktr.ee/jaitn)
 
