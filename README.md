@@ -18,8 +18,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=7611ED)
 ![XML](https://img.shields.io/badge/XML-1572B6?style=for-the-badge&logo=xml&logoColor=skyblue)
 ![MySQL](https://img.shields.io/badge/MySQL-skyblue?style=for-the-badge&logo=mysql&logoColor=white)
-![Reactjs](https://img.shields.io/badge/Reactjs-white?style=for-the-badge&logo=react&logoColor00CDF2)
-![Tailwindcss](https://img.shields.io/badge/Tailwindcss-white?style=for-the-badge&logo=tailwindcss&logoColorF2F2F2)
+![Reactjs](https://img.shields.io/badge/Reactjs-black?style=for-the-badge&logo=react&logoColor00CDF2)
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-black?style=for-the-badge&logo=tailwindcss&logoColorF2F2F2)
 
 ## Contact Me
 [![Linktree](https://img.shields.io/badge/Linktree-white?style=for-the-badge&logo=linktree&logoColor40DA5B)](https://linktr.ee/jatin_1322)
