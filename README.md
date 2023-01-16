@@ -11,7 +11,7 @@
 ## Tech Stack 
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=E44C30)
-![Java](https://img.shields.io/badge/JAVA-100000?style=for-the-badge&logo=JAVA&logoColor=skyblue)
+![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=Java&logoColor=skyblue)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=skyblue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1572B6?style=for-the-badge&logo=javascript&logoColor=skyblue)
