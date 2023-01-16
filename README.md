@@ -19,7 +19,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=red)
 ![Reactjs](https://img.shields.io/badge/Reactjs-black?style=for-the-badge&logo=react&logoColor00CDF2)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=0B83BC)
-![XML](https://img.shields.io/badge/XML-1572B6?style=for-the-badge&logo=xml&logoColor=skyblue)
 
 ## Contact Me
 [![Linktree](https://img.shields.io/badge/Linktree-white?style=for-the-badge&logo=linktree&logoColor40DA5B)](https://linktr.ee/jatin_1322)
