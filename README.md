@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning React and preparing for Web Development
 
 ## Tech Stack 
-![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)
+(https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=E44C30)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=skyblue)
 ![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=skyblue)
