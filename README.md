@@ -23,5 +23,5 @@
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-1572B6?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## Contact Me
-[![Linktree](https://img.shields.io/badge/Linktree-3E5641?style=for-the-badge&logo=linktree&logoColor=skyblue)](https://linktr.ee/jatin_1322)
+[![Linktree](https://img.shields.io/badge/Linktree-40DA5B?style=for-the-badge&logo=linktree&logoColor=skyblue)](https://linktr.ee/jatin_1322)
 
