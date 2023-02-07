@@ -25,7 +25,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23FF9A00.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=jatin132&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jatin132&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Contact Me
 [![Linktree](https://img.shields.io/badge/Linktree-white?style=for-the-badge&logo=linktree&logoColor40DA5B)](https://linktr.ee/jatin_1322)
