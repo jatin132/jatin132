@@ -1,5 +1,7 @@
-  ## Hello there 👋
+  <pre align="center"  > <b>## Hello there 👋 This is Jatin Gupta!</b>🙋 </pre> 
   
+  
+  [![](https://visitcount.itsvg.in/api?id=jatin1322&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
   
   ## About Me 👨‍💻
   
