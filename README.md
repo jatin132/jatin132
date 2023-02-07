@@ -21,6 +21,8 @@
 ![HTML](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=red)
 ![Reactjs](https://img.shields.io/badge/Reactjs-black?style=for-the-badge&logo=react&logoColor00CDF2)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=0B83BC)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23FF9A00.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Contact Me
 [![Linktree](https://img.shields.io/badge/Linktree-white?style=for-the-badge&logo=linktree&logoColor40DA5B)](https://linktr.ee/jatin_1322)
