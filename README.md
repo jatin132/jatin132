@@ -1,4 +1,4 @@
-  <pre align="center"  > <b>## Hello there 👋 This is Jatin Gupta!</b>🙋 </pre> 
+  <pre align="center"  > <b>Hello there 👋 This is Jatin Gupta!</b>🙋 </pre> 
   
   
   [![](https://visitcount.itsvg.in/api?id=jatin1322&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
@@ -7,7 +7,7 @@
   
 - 👀 I am Jatin Gupta.
 - 💻 I’m a Android Developer - Java. 
-- 🎓 I am currently in my sophomore year
+- 🎓 I am currently in my last year
 - 🌱 I’m currently learning React and preparing for Web Development
 
 ## Tech Stack 
