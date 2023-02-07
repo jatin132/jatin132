@@ -8,7 +8,7 @@
 - 👀 I am Jatin Gupta.
 - 💻 I’m a Android Developer - Java. 
 - 🎓 I am currently in my last year
-- 🌱 I’m currently learning React and preparing for Web Development
+- 🌱 I’m currently learning MERN stack and preparing for Web Development
 
 ## Tech Stack 
 ![Github](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
