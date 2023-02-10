@@ -23,8 +23,8 @@
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=yellow)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23FF9A00.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Retrofit](https://img.shields.io/badge/retrofit-%23FF9A00.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Volley](https://img.shields.io/badge/volley-%23FF9A00.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Retrofit](https://img.shields.io/badge/retrofit-%23FF9A00.svg?style=for-the-badge&logo=retrofit&logoColor=white)
+![Volley](https://img.shields.io/badge/volley-%23FF9A00.svg?style=for-the-badge&logo=volley&logoColor=white)
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jatin132&theme=dark&hide_border=true)](https://git.io/streak-stats)
