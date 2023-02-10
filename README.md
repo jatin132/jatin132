@@ -22,7 +22,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=yellow)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23FF9A00.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/retrofit-green.svg?style=for-the-badge&logo=retrofit&logoColor=white)
 ![Volley](https://img.shields.io/badge/volley-black.svg?style=for-the-badge&logo=volley&logoColor=white)
 
