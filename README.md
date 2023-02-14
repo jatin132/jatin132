@@ -40,5 +40,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=jatin132&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 ## Contact Me
-![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white https://linktr.ee/jatin_1322)
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jatin_1322)
 
