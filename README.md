@@ -21,6 +21,7 @@
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-white?style=for-the-badge&logo=tailwindcss&logoColorF2F2F2)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%231572B6?style=for-the-badge&logo=Java&logoColor=red)
+![Kotlin](https://img.shields.io/badge/kotlin-%2320232a.svg?style=for-the-badge&logo=volley&logoColor=pink)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/retrofit-green.svg?style=for-the-badge&logo=retrofit&logoColor=white)
