@@ -6,9 +6,9 @@
   ## About Me 👨‍💻
   
 - 👀 I am Jatin Gupta.
-- 💻 I’m a Android Developer - Java. 
-- 🎓 I am currently in my last year
-- 🌱 I’m currently learning MERN stack and preparing for Web Development
+- 💻 I’m an Android Developer - Java/Kotlin. 
+- 🎓 Completed graduation 2k23.
+- 🌱 I’m currently learning API Development for Fullstack Development.
 
 ## Tech Stack 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
