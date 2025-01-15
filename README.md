@@ -7,8 +7,8 @@
   
 - 👀 I am Jatin Gupta.
 - 💻 I’m a Mobile application developer - Flutter/Dart.
-- 🎓 Completed graduation 2k23.
 - 🌱 I’m an API Developer - NestJS/MySQL.
+- 🎓 Completed graduation 2k23.
 
 ## Tech Stack 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
